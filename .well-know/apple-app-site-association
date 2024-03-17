@@ -1,0 +1,11 @@
+{
+  "applinks": {
+  "apps": [],
+    "details": [
+      {
+        "appID": "5SYDL3KCGG.com.mps.testflight",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
